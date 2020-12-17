@@ -12,6 +12,8 @@ This is the initial version of the library, and it is therefore an update in it 
 The library can be downloaded here:
 https://github.com/alexandrainst/processing_websockets/blob/master/webSockets.zip?raw=true
 
+*If you met some typo or path error, could check this issue [Linux problems - no binary](https://github.com/avantcontra/osc-websocket-example/issues/2)*
+
 ## Installation
 Unzip and put the extracted webSockets folder into the libraries folder of your Processing
 sketches. Reference and examples are included in the webSockets folder.
